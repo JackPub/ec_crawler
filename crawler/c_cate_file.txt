@@ -1,0 +1,11 @@
+hpp,cate_name
+"chart_sub613","吸塵器"
+"chart_sub104","桌椅"
+"chart_sub68","家飾 / 織品 / 燈飾"
+"chart_sub10","流行女裝"
+"chart_sub30","歐系精品包 / 配件"
+"chart_sub461","運動男鞋"
+"chart_sub464","櫥櫃"
+"chart_sub34","行車記錄器 / 導航"
+"chart_sub202","纖盈 / 美體"
+"chart_sub286","健身器材"
